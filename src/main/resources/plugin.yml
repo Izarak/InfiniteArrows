@@ -1,0 +1,5 @@
+name: InfiniteArrows
+version: '${project.version}'
+main: me.isaac.infiniteArrows.InfiniteArrows
+api-version: '1.21'
+author: Izarak
